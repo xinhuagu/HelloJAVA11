@@ -3,6 +3,7 @@
 !.gitignore
 !.gitattributes
 target/
+modes/
 test-output/
 !src/
 
