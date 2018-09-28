@@ -1,6 +1,7 @@
 #########################################
 .*
 !.travis.yml
+!.mvn
 !.gitignore
 !.gitattributes
 target/
