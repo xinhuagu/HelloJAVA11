@@ -5,7 +5,7 @@ The project shows how to use maven to build module-based java 11 progam
 
 1. buld the project:
 ```
-mvn clean package
+./mvnw clean package
 ```
 2. run the program:
 ```
