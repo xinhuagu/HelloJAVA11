@@ -4,8 +4,12 @@
 
 The project shows how to use maven to build module-based java 11 progam
 
-buld & run :
+### Module diagram:
+<img src="images/module-diagram.png" >
+
+### buld & run :
 ```
-./mvnw clean package exec:exec
+./mvnw clean package
+./run.sh
 ```
 
